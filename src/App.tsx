@@ -443,7 +443,7 @@ function App() {
         {/* CTA Section */}
         <div className="text-center py-12 border-t border-cartel-lightgray">
           <a
-            href="https://calendly.com"
+            href="https://calendly.com/andrew-druskimedia/new-meeting"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-cartel-gold text-black font-bold py-4 px-12 hover:bg-white transition-colors uppercase tracking-wider text-lg"
